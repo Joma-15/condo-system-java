@@ -1,0 +1,9 @@
+Username       : Rolando Edison Flores
+Civil status   : SINGLE
+Occupation     : Engineer
+Age            : 19
+Nationality    : Filipino
+Contact Number : 09949473307
+Sex            : MALE
+Email          : rolando@gmail.com
+Monthly Salary : 1000000.00

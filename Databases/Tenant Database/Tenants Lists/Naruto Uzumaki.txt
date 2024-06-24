@@ -1,0 +1,9 @@
+Username       : Naruto Uzumaki
+Civil status   : SINGLE
+Occupation     : Ninja
+Age            : 19
+Nationality    : Japanese
+Contact Number : 09949473307
+Sex            : MALE
+Email          : naruto@gmail.com
+Monthly Salary : 80000000.00

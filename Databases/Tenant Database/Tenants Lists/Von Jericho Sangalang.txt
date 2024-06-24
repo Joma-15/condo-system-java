@@ -1,0 +1,9 @@
+Username       : Von Jericho Sangalang
+Civil status   : SINGLE
+Occupation     : Engineer
+Age            : 19
+Nationality    : Filipino
+Contact Number : 09949473307
+Sex            : MALE
+Email          : von@gmail.com
+Monthly Salary : 1000000.00

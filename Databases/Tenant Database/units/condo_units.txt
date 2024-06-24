@@ -1,0 +1,5 @@
+UNIT#1[0;32m(Available)[0m
+UNIT#2[0;32m(Available)[0m
+UNIT#3[0;32m(Available)[0m
+UNIT#4[0;32m(Available)[0m
+UNIT#5[0;32m(Available)[0m

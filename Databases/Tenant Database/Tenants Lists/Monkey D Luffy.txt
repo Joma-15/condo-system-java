@@ -1,0 +1,9 @@
+Username       : Monkey D Luffy
+Civil status   : SINGLE
+Occupation     : Pirate
+Age            : 19
+Nationality    : Japanese
+Contact Number : 09949473307
+Sex            : MALE
+Email          : marcel@gmail.com
+Monthly Salary : 9000000.00

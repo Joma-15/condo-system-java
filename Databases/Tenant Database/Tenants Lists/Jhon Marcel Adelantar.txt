@@ -1,0 +1,9 @@
+Username       : Jhon Marcel Adelantar
+Civil status   : SINGLE
+Occupation     : Engineer
+Age            : 19
+Nationality    : Filipino
+Contact Number : 09949473307
+Sex            : MALE
+Email          : marcel@gmail.com
+Monthly Salary : 100000.00
