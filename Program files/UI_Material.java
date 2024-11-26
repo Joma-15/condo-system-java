@@ -14,12 +14,13 @@ class UI_Material extends JFrame{
         final static String BANNER = "\033[0;36m";
 
         // images
+        static final String imagePath = "D:\\Condominium Mangement System\\UI\\condo images\\";
         static final String[] images = {
-            "D:\\Condominium Mangement System\\UI\\condo images\\unit1.jpg",
-            "D:\\Condominium Mangement System\\UI\\condo images\\unit2.jpg",
-            "D:\\Condominium Mangement System\\UI\\condo images\\unit3.jpg",
-            "D:\\Condominium Mangement System\\UI\\condo images\\unit4.jpg",
-            "D:\\Condominium Mangement System\\UI\\condo images\\unit5.jpg"
+            imagePath + "unit1.jpg",
+            imagePath + "unit2.jpg",
+            imagePath + "unit3.jpg",
+            imagePath + "unit4.jpg",
+            imagePath + "unit5.jpg"
         };
 
         static void delayprint(String word, int delaytime) {
@@ -45,11 +46,12 @@ class UI_Material extends JFrame{
     }
 
     static class Sounds {
-        static String sounds[] = {
-            "D:\\Condominium Mangement System\\UI\\musicwav\\login successfully.wav",
-            "D:\\Condominium Mangement System\\UI\\musicwav\\login failed.wav",
-            "D:\\Condominium Mangement System\\UI\\musicwav\\onclick.wav",
-            "D:\\Condominium Mangement System\\UI\\musicwav\\dataOnSave.wav"
+        static String basePath = "D:\\Condominium Mangement System\\UI\\musicwav\\";
+        static String[] sounds = {
+            basePath + "login successfully.wav",
+            basePath + "login failed.wav",
+            basePath + "onclick.wav",
+            basePath + "dataOnSave.wav"
         };
 
         public static void playSound(String soundname) {
@@ -163,6 +165,7 @@ class UI_Material extends JFrame{
             } catch (Exception e) {
                 System.out.printf("%sCannot load the image%s\n", Visuals.FAILED, Visuals.RESET);
             }
+            frame.setBounds(200,200, 500,500);
             frame.pack();
             frame.setVisible(true);
         }
